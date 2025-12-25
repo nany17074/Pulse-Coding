@@ -18,21 +18,92 @@ const ReviewScraperUI = () => {
   const [showResults, setShowResults] = useState(false);
 
   const sampleReviews = [
-    { author: "TrustworITrailfeel", date: "Oct 1, 2024", title: "Kuxpɑ thrɑmmɑnd mod odɑrvɑndozɑs ɑccowɑbɑnɑxxt ɑnd globɑzɑɑz", rating: null },
-    { author: "Aɑl Ctrɑmmɑt Fthroɑllɑost", date: null, title: "Tɑmpzɑmɑx oɑɑɑ pɑxɑɑy ɑmbɑddxlxty trɑpɑrɑɑɑɑ tcool", rating: "negative" },
-    { author: "Bɑslɑyo Ftiso Cɑro Hɑɑgrɑlɑwt", date: "Oct 1, 2024", title: "Hxɑxvɑmɑxɑɑxɑod cɑllɑɑo bɑɑɑ ɑcxɑɑɑ" },
-    { author: "Bɑɑlla Flo Hɑmɑɑttttn", date: "Oct 1, 2024", title: "Hɑslɑtɑɑɑtɑon ɑv doɑaɑɑpt hxbcɑɑɑɑɑ hɑxy doxp" },
-    { author: "Gɑnɑgo Hɑd Iɑrɑs Hɑrɑkrlzxy", date: null, title: "Phxl olxprɑɑdɑvrd vrɑomxnxvxnxb toz cxod", rating: "positive" },
-    { author: "Bɑnpo Klɑvɑxrd Gɑrɑxlɑɑs", date: null, title: "Pxodxrhxmhrɑqroxɑlo tɑhɑplo oxy", rating: "positive" },
-    { author: "Oct 12, 2024", date: null, title: "Pɑcxlɑɑɑɑy ɑoɑmxlcd xlɑzdrɑɑlɑvllt clxxp rɑorɑcɑlɑxlx", rating: "negative" },
-    { author: "Oɑr 12, 2024", date: null, title: "Vllɑdvɑrɑɑɑɑlɑol xlɑla ɑɑlxl lxorɑl ozol", rating: "negative" },
-    { author: "Oct 12, 2024", date: null, title: "Rɑnxdɑ Tlɑɑyɑɑ Boɑɑlxo ɑoɑrxɑɑorɑzl ɑvʊɑlɑxɑtxz pɑɑlx" },
-    { author: "Oct 12, 2024", date: null, title: "Tɑlvɑsɑn xrtxrɑllx Sxrtxo xytɑtɑvxɑtdxm txoɑl xɑvɑxytxb", rating: "positive" },
-    { author: "Rrɑrɑgo Fltɑrrɑn Kɑxrgɑyoxod", date: null, title: "Prxllɑz ɑrtɑdmt rɑvɑrɑoxɑmɑ pxnoxzl ɑɑtɑrtxl pɑmxod", rating: "negative" },
-    { author: "Nɑclarɑ M vplɑnkttms", date: null, title: "Llxoxd nɑtrxxxx rɑɑndxt nxɑrly rlɑtxb", rating: "negative" },
-    { author: "Trl Gɑnɑry Hlɑmɑs", date: null, title: "Nxobrlxn rlnxxb txskxnro tlxxvl tlxxlrxxtn tlxmxbl", rating: "positive" },
-    { author: "Oɑt 12, 2024", date: null, title: "Txxxxxxxv brxxxxxxxy xyyxtx ttxxmx lxxxxx xxxxxx", rating: "positive" }
-  ];
+  {
+    author: "Rahul Mehta",
+    date: "Oct 1, 2024",
+    title: "Smooth onboarding experience and responsive customer support",
+    rating: "positive"
+  },
+  {
+    author: "Ananya Sharma",
+    date: "Sep 28, 2024",
+    title: "The interface is clean but performance can be improved",
+    rating: "negative"
+  },
+  {
+    author: "Vikram Singh",
+    date: "Oct 1, 2024",
+    title: "Good features overall, especially the analytics dashboard",
+    rating: null
+  },
+  {
+    author: "Priya Nair",
+    date: "Oct 1, 2024",
+    title: "Had issues initially but the support team resolved them quickly",
+    rating: "positive"
+  },
+  {
+    author: "Arjun Patel",
+    date: null,
+    title: "Frequent loading delays make it difficult to use during peak hours",
+    rating: "negative"
+  },
+  {
+    author: "Sneha Kapoor",
+    date: null,
+    title: "Easy to use and well-designed, even for beginners",
+    rating: "positive"
+  },
+  {
+    author: "Rohit Verma",
+    date: "Oct 12, 2024",
+    title: "The pricing feels a bit high compared to similar platforms",
+    rating: "negative"
+  },
+  {
+    author: "Kavya Iyer",
+    date: "Oct 12, 2024",
+    title: "App works fine but lacks some advanced customization options",
+    rating: "negative"
+  },
+  {
+    author: "Aman Gupta",
+    date: "Oct 12, 2024",
+    title: "Reliable performance and consistent updates over time",
+    rating: null
+  },
+  {
+    author: "Neha Malhotra",
+    date: "Oct 12, 2024",
+    title: "Excellent user experience with minimal learning curve",
+    rating: "positive"
+  },
+  {
+    author: "Saurabh Kulkarni",
+    date: null,
+    title: "Customer service response time needs significant improvement",
+    rating: "negative"
+  },
+  {
+    author: "Pooja Choudhary",
+    date: null,
+    title: "Met my expectations for day-to-day usage",
+    rating: "negative"
+  },
+  {
+    author: "Aditya Rao",
+    date: null,
+    title: "Feature-rich platform that delivers consistent value",
+    rating: "positive"
+  },
+  {
+    author: "Ishita Banerjee",
+    date: "Oct 12, 2024",
+    title: "Very satisfied with the overall experience and reliability",
+    rating: "positive"
+  }
+];
+
 
   useEffect(() => {
     if (isScrapingActive) {
