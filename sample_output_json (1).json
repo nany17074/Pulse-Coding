@@ -1,0 +1,462 @@
+{
+  "company": "Slack",
+  "source": "all",
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2024-12-31"
+  },
+  "total_reviews": 45,
+  "scraped_at": "2024-12-26T10:30:45.123456",
+  "reviews": [
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-12",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_1_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-13",
+      "rating": 3.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_1_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-14",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_1_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-15",
+      "rating": 3.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_1_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-16",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_1_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    },
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-19",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_2_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-20",
+      "rating": 3.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_2_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-21",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_2_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-22",
+      "rating": 3.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_2_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-23",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_2_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    },
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-26",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_3_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-27",
+      "rating": 3.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_3_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-28",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_3_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-29",
+      "rating": 3.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_3_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-30",
+      "rating": 4.5,
+      "source": "G2",
+      "reviewer_name": "User_G2_3_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    },
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-12",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_1_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-13",
+      "rating": 3.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_1_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-14",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_1_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-15",
+      "rating": 3.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_1_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-16",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_1_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    },
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-19",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_2_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-20",
+      "rating": 3.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_2_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-21",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_2_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-22",
+      "rating": 3.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_2_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-23",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_2_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    },
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-26",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_3_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-27",
+      "rating": 3.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_3_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-28",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_3_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-29",
+      "rating": 3.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_3_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-30",
+      "rating": 4.5,
+      "source": "Capterra",
+      "reviewer_name": "User_Capterra_3_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    },
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-12",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_1_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-13",
+      "rating": 3.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_1_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-14",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_1_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-15",
+      "rating": 3.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_1_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-16",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_1_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    },
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-19",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_2_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-20",
+      "rating": 3.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_2_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-21",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_2_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-22",
+      "rating": 3.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_2_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-23",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_2_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    },
+    {
+      "title": "Game-Changer for Our Workflow!",
+      "description": "This tool has completely transformed how we operate. The interface is intuitive and the features are exactly what we needed.",
+      "date": "2024-10-26",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_3_0",
+      "verified_purchaser": true,
+      "helpful_count": 3
+    },
+    {
+      "title": "Excellent Product with Great Support",
+      "description": "We've been using this for 6 months now and couldn't be happier. Customer support is responsive and helpful.",
+      "date": "2024-10-27",
+      "rating": 3.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_3_1",
+      "verified_purchaser": false,
+      "helpful_count": 6
+    },
+    {
+      "title": "Could Be Better - Some Issues",
+      "description": "Has potential but still needs work. Integration with other tools could be smoother.",
+      "date": "2024-10-28",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_3_2",
+      "verified_purchaser": true,
+      "helpful_count": 9
+    },
+    {
+      "title": "Highly Recommend for Teams",
+      "description": "Our entire team adopted this quickly. Training was minimal and productivity increased significantly.",
+      "date": "2024-10-29",
+      "rating": 3.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_3_3",
+      "verified_purchaser": false,
+      "helpful_count": 12
+    },
+    {
+      "title": "Not Worth the Price",
+      "description": "Expected more for the price point. Missing some key features we were looking for.",
+      "date": "2024-10-30",
+      "rating": 4.5,
+      "source": "TrustRadius",
+      "reviewer_name": "User_TrustRadius_3_4",
+      "verified_purchaser": true,
+      "helpful_count": 15
+    }
+  ]
+}
