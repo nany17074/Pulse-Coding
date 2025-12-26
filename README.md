@@ -219,7 +219,3 @@ Created as part of the Pulse Coding Assignment.
 ## 📧 Support
 
 For issues, questions, or suggestions, please open an issue in the repository.
-
----
-
-**Note**: This tool is designed for research and analysis purposes. Always ensure compliance with website terms of service and applicable laws when scraping data.
